@@ -12,6 +12,7 @@
 		<org.slf4j-version>1.7.5</org.slf4j-version>
 		<jackson.databind-version>2.2.3</jackson.databind-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.plugin.validation>verbose</maven.plugin.validation>
 	</properties>
 	<dependencies>
 		<!-- Jackson -->
